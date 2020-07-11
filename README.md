@@ -23,4 +23,7 @@ Everyone (who sees)
 
 # Misc :
 Card one is currently not working.
+
 Alot of bugs at displaying countdown timer
+
+Join the discord server https://discord.gg/fQDRHsk to see all the features and progress!
